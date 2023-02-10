@@ -1,10 +1,10 @@
 .quickOrder__container {
     align-items: center;
     border-radius: 15px;
-    box-shadow: -2px 1px 10px 0px rgb(107 129 137);
+    box-shadow: -2px 1px 10px 0px rgba(107, 129, 137, 0.6);
     display: flex;
     flex-direction: column;
-    margin: 30px auto;
+    margin: 15px auto 30px auto;
     max-width: 473px;
     padding: 15px;
 }
